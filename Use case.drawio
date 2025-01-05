@@ -25,7 +25,7 @@
           <mxGeometry x="300" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-10" value="ввести данные о человеке (примерный возраст, симптомы, повреждения)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
-          <mxGeometry x="470" y="50" width="190" height="90" as="geometry" />
+          <mxGeometry x="490" y="50" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-9" target="dRO05HRyYeka43NntyVJ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -76,13 +76,13 @@
         <mxCell id="dRO05HRyYeka43NntyVJ-47" value="Внести пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
           <mxGeometry x="480" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-46" target="dRO05HRyYeka43NntyVJ-44">
+        <mxCell id="dRO05HRyYeka43NntyVJ-50" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-46" target="dRO05HRyYeka43NntyVJ-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="710" as="sourcePoint" />
             <mxPoint x="530" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-47" target="dRO05HRyYeka43NntyVJ-44">
+        <mxCell id="dRO05HRyYeka43NntyVJ-51" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-47" target="dRO05HRyYeka43NntyVJ-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="420" as="sourcePoint" />
             <mxPoint x="640" y="370" as="targetPoint" />
