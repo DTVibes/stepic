@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-2" value="System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="130" width="860" height="730" as="geometry" />
+          <mxGeometry x="410" y="130" width="860" height="680" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-9" value="получить ряд шагов для оказания первой помощи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
           <mxGeometry x="55" y="190" width="130" height="80" as="geometry" />
@@ -42,24 +42,10 @@
           <mxGeometry x="60" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-28" value="Написать в тех. поддержку&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
-          <mxGeometry x="50" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-29" value="Предложить исправить шаги по оказанию первой попомщи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
-          <mxGeometry x="50" y="630" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="dRO05HRyYeka43NntyVJ-2" source="dRO05HRyYeka43NntyVJ-53" target="dRO05HRyYeka43NntyVJ-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-57" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dRO05HRyYeka43NntyVJ-56">
-          <mxGeometry x="-0.0022" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-53" value="Зарегистрироваться&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
           <mxGeometry x="55" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-55" value="Ввести данные о пользователе&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
-          <mxGeometry x="280" y="420" width="120" height="80" as="geometry" />
+        <mxCell id="dRO05HRyYeka43NntyVJ-29" value="Предложить исправить шаги по оказанию первой попомщи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
+          <mxGeometry x="55" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dRO05HRyYeka43NntyVJ-26" value="Добавлять или редактировать алгоритмы оказания помощи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dRO05HRyYeka43NntyVJ-2">
           <mxGeometry x="660" y="295" width="120" height="80" as="geometry" />
@@ -131,12 +117,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="562.7030586857895" as="sourcePoint" />
             <mxPoint x="360" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dRO05HRyYeka43NntyVJ-54" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.005;exitY=0.423;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dRO05HRyYeka43NntyVJ-53" target="dRO05HRyYeka43NntyVJ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="500" as="sourcePoint" />
-            <mxPoint x="310" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
